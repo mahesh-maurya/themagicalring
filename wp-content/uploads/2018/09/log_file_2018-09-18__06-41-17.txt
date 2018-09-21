@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 3000000
+Files info:
+Site URL = http://localhost/themagicalring
+Data file = C:\xampp\htdocs\themagicalring/wp-content/themes/greatmag/demo-content/demo-content.xml
+Widget file = C:\xampp\htdocs\themagicalring/wp-content/themes/greatmag/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+mysidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - About - Imported to Inactive
+GreatMag: Most popular - Most popular - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+
+Footer 1 : 
+
+Navigation Menu - Top picks - Imported
+
+Footer 2 : 
+
+Navigation Menu - Services - Imported
+
+Footer 3 : 
+
+Text - About - Imported
+
+
+
+---pt-ocdi/after_import---
+
